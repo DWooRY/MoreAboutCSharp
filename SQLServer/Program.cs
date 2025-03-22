@@ -424,7 +424,7 @@ where first_name like 'D%' or last_name like '%s'
 --select right(name,3) from Production.Product
 --select left(name,3) from Production.Produ
 
-
+            
 
 
 
