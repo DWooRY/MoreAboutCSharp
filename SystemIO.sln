@@ -25,6 +25,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqToXML", "LinqToXML\Linq
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RSSOkumaUygulamasi", "RSSOkumaUygulamasi\RSSOkumaUygulamasi.csproj", "{E95B34D2-C50F-42AC-A0B0-6A73994199C8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSONFormati", "JSONFormati\JSONFormati.csproj", "{225CD38A-D6FE-46AF-BC29-4C38EB2CB626}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSVFormati", "CSVFormati\CSVFormati.csproj", "{664B8057-7AAE-4546-B921-7357605C883D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +79,14 @@ Global
 		{E95B34D2-C50F-42AC-A0B0-6A73994199C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E95B34D2-C50F-42AC-A0B0-6A73994199C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E95B34D2-C50F-42AC-A0B0-6A73994199C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{225CD38A-D6FE-46AF-BC29-4C38EB2CB626}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{225CD38A-D6FE-46AF-BC29-4C38EB2CB626}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{225CD38A-D6FE-46AF-BC29-4C38EB2CB626}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{225CD38A-D6FE-46AF-BC29-4C38EB2CB626}.Release|Any CPU.Build.0 = Release|Any CPU
+		{664B8057-7AAE-4546-B921-7357605C883D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{664B8057-7AAE-4546-B921-7357605C883D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{664B8057-7AAE-4546-B921-7357605C883D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{664B8057-7AAE-4546-B921-7357605C883D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
