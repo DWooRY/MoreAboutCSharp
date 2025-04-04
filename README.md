@@ -17,4 +17,5 @@
 ● MD5-SHA256/512 <br>
 ● N-Layer Arc <br>
 ● Windows Services <br>
-● Email Sending NLog <br>
+● Email Sending <br> 
+● NLog 
